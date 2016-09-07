@@ -7,3 +7,5 @@ Thanks.
 
 Now, i make changes on mac.
 Lets do it one more time on mac
+
+change on atom
